@@ -1,0 +1,31 @@
+.container1 {
+  margin-top: 200px;
+}
+h1 {
+  font-size: 25px;
+  color: white;
+}
+h2 {
+  font-size: 18px;
+  color: white;
+}
+p {
+  font-size: 15px;
+  color: white;
+}
+.color_link {
+  text-decoration: none;
+  color: white;
+}
+hr {
+  color: white;
+}
+.container-img {
+  width: 150px;
+  border: 2px solid white;
+  border-radius: 15px;
+}
+.declaration {
+  color: #ff2e2e;
+  font-size: 22px;
+}
